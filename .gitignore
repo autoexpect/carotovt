@@ -1,0 +1,5 @@
+CarotOVT.syso
+bin/*
+.DS_Store
+go.sum
+gon.json
